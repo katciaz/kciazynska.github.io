@@ -6,8 +6,8 @@ group: contact
 
 <h1 class="page-header text-center"> Contact </h1>
 email:
-<li>[personal](mailto:katarzyna.ciazynska@gmail.com)</li>
-<li>[academic](mailto:ciazynsk@mrc-lmb.cam.ac.uk) </li>
+<p>[personal](mailto:katarzyna.ciazynska@gmail.com)</p>
+<p>[academic](mailto:ciazynsk@mrc-lmb.cam.ac.uk) </p>
 
 
 You can also find me online at:
